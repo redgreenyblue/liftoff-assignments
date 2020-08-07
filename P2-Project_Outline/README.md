@@ -5,14 +5,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
 ## Submission Instructions
+Saint Louis City Data Dashboard.
 
-### Overview
-Include overview here
-### Features
-Include Features here
+Would you want to know how your neighborhood or zip code compares to others in the City of St. Louis without having to go through the trouble of searching, using applications that only provide narrow results, having to download files from multiple sites, or paying for a report from Neigborhood Scout? Well, I will aggregate demographic, environmental, housing/property, special taxation districts, and crime data into an easy to use dashboard to query specific areas of the City. Data will be sourced from various official sources - Missouri Spatial Data Infomation Service (MSDIS), Missouri Census Data Center (MCDC), the City of St. Louis, U.S. Census Bureau, U.S Environmental Protection Agency (EPA), and East-West Gateway Council of Governments (EWGCOG).
+
+Users will be able search and/or make query selections that will result in an illustrative report consisting of statistical figures, tables, charts, graphs, and maps. The query feature would be able to produce reports that can compare multiple areas in a single query to view data such as mean and median housing values, crime rates, walkability scores, green space coverage, etc. Users would be able to create their own accounts to save queries and download reports. Links will be available to websites for additional information, and sourced data files. Please note that data may not be available for certain geographies (i.e. neighborhoods), because of insufficient data.
+
+## Features
+Login authentication, Data queries, Save queries to personal account, Download report data, and Link to external websites.
+
 ### Technologies
-Include Technologies here
+Java, MySQL, Hibernate, QGIS, CSS, HTML, Thymeleaf, Springboot, and Hibernate.
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Furthering my knowledge about object-relational mapping (ORM), and integrating technologies to produce desired output.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/DZkrzXuS/lift-off-project
